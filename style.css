@@ -112,7 +112,7 @@ body {
 }
 
 #gallerySection {
-  background-color: #f4eeeb;
+  background-color: #FEF8E2;
   padding-top: 20%;
 }
 
@@ -120,7 +120,7 @@ body {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-gap: 5px;
-  background-color: #f4eeeb;
+  background-color: #FEF8E2;
   /* (A2) OPTIONAL WIDTH RESTRICT */
   max-width: 1000px;
   margin: 0 auto;
@@ -219,7 +219,7 @@ body {
 }
 
 .countdownTimeInfo {
-  color: #ffa3a3;
+  color: #FDA700;
   font-weight: 600;
 }
 
@@ -261,7 +261,7 @@ body {
 
 #locationSection {
   margin-top: 3%;
-  background-color: #f4eeeb;
+  background-color: #FEF8E2;
   height: 265px;
 }
 
@@ -326,7 +326,7 @@ main {
 }
 
 .accordion {
-  background-color: #f4eeeb;
+  background-color: #FFF3CA;
   color: black;
   cursor: pointer;
   padding: 0.8rem;
@@ -418,7 +418,7 @@ main {
 }
 
 #kakaoMapButton {
-  background-color: #e0bdbd;
+  background-color: #FFD177;
   padding: 10px;
   text-align: center;
   width: auto;
